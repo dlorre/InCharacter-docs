@@ -1,7 +1,7 @@
 # InCharacter-docs
 Documentation and examples for the UE5.6 In Character plugin
 
-*Documentation*
+**Documentation**
 
 This folder contains the plugin documentation in OpenDocument and PDF formats.
 
