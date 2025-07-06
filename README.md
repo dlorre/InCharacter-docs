@@ -1,5 +1,5 @@
 # InCharacter-docs
-Documentation and extra files for the UE5.6 [In Character Plugin](https://www.fab.com/listings/20cde3c0-c77c-4dbc-866c-289808e0a6bc/)
+Documentation and extra files for the UE5.6 [In Character Plugin](https://www.fab.com/listings/20cde3c0-c77c-4dbc-866c-289808e0a6bc)
 
 **Documentation**
 
